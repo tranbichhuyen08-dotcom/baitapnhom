@@ -1,3 +1,24 @@
+*{ 
+   font-family: Arial;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.header{
+  flex: 15%;
+}
+.menu{
+ flex: 5%;
+}
+.content{
+ flex: 70%;
+}
+.footer{
+ flex: 10%;
+}
+
 .f1 {
    color: red;
   margin-top: 18pt;
