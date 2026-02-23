@@ -8,15 +8,19 @@
 }
 .header{
   flex: 15%;
+   background-color: lightpink;
 }
 .menu{
  flex: 5%;
+   background-color: lightblue;
 }
 .content{
  flex: 70%;
+   background-color: white;
 }
 .footer{
  flex: 10%;
+   background-color: lightpink;
 }
 
 .f1 {
