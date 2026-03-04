@@ -8,8 +8,9 @@
 }
 .header{
   flex: 15%;
-   background: url("IMG_4470.jpeg") center/100%;
+   background: url"IMG_4470.jpeg" center/100%;
    background-color: lightpink;
+   aspect-ratio: 6/1;
 }
 .menu{
  flex: 5%;
