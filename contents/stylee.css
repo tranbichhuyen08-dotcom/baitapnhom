@@ -8,6 +8,7 @@
 }
 .header{
   flex: 15%;
+   background: url("") center/100%;
    background-color: lightpink;
 }
 .menu{
