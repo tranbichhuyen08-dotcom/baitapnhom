@@ -1,0 +1,7 @@
+<html>
+<head>
+  <body>
+    <hl style="color: pink;">ĐĂNG KÍ THAO GIA HỘI THAO</hl>
+    <form action="feedback>
+      <label>Họ và tên:<input type="text" name="txtTen"></label><br>
+      <label>Địa chỉ email:<input type="email" name="txtAddress"></label><br>
